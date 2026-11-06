@@ -161,8 +161,8 @@ body.tech-site .edition-signature{color:var(--dim);border-color:var(--line)!impo
 body.tech-site .edition-orbit *{stroke:rgba(255,255,255,.08)!important}
 body.tech-site .edition-orbit .orbit-node{fill:var(--accent)!important;stroke:none!important;filter:drop-shadow(0 0 8px var(--accent))}
 body.tech-site .portrait-frame{position:relative;isolation:isolate}
-body.tech-site .portrait-frame::before{content:'';position:absolute;inset:8% 6% -4%;z-index:0;background:url(portrait.webp) center/cover;filter:blur(60px) saturate(1.6);opacity:.45;border-radius:40%;pointer-events:none}
-body.tech-site .portrait-frame img{filter:saturate(.95) contrast(1.04)!important;border-radius:999px 999px 24px 24px!important;box-shadow:0 0 0 1px rgba(255,255,255,.12),0 40px 100px -30px rgba(0,0,0,.9)}
+body.tech-site .portrait-frame::before{content:'';position:absolute;inset:8% 6% -4%;z-index:0;background:url(portrait-seaside.jpg) 88% center/cover;filter:blur(60px) saturate(1.6);opacity:.45;border-radius:40%;pointer-events:none}
+body.tech-site .portrait-frame img{object-position:88% center;filter:saturate(.95) contrast(1.04)!important;border-radius:999px 999px 24px 24px!important;box-shadow:0 0 0 1px rgba(255,255,255,.12),0 40px 100px -30px rgba(0,0,0,.9)}
 body.tech-site .photo-index{color:#fff;z-index:3;text-shadow:0 1px 8px rgba(0,0,0,.6);letter-spacing:.14em!important}
 body.tech-site .photo-caption{background:transparent!important;border:0!important;border-bottom:1px solid var(--line)!important;box-shadow:none!important;color:var(--ink)}
 body.tech-site .photo-caption p{color:var(--ink);font-family:var(--serif)}
