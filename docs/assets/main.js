@@ -6,7 +6,8 @@
     experience: 'experience.html', company: 'company.html', life: 'life.html',
     contact: 'contact.html', 'neuroboost-software': 'company.html',
     paperorchestrator: 'publications.html', 'k12-teaching-agent': 'publications.html',
-    'skybound-magic': 'publications.html', 'learning-engagement': 'publications.html',
+    causalretinaedge: 'publications.html', 'uad-fm': 'publications.html',
+    'lung-egfr-revision': 'publications.html', 'learning-engagement': 'publications.html',
     'geometry-survey': 'publications.html', protoflow: 'publications.html', eloss: 'publications.html'
   };
   const fragment = window.location.hash.slice(1);
