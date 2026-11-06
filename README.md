@@ -2,7 +2,7 @@
 
 Personal website imported from `DerrickLee-main.zip`.
 
-Live website: https://chuangqilee.github.io/chuangqili.github.io/
+Live website: https://chuangqilee.github.io/personnal.io/
 
 ## Publishing
 
