@@ -42,7 +42,7 @@
     if (!target || reduced() || performance.now() - (self.liIntroAt || 0) > 1200) { root.classList.remove('li-intro-on'); return Promise.resolve(); }
     const veil = make('div', 'li-intro');
     veil.innerHTML = `<div class="li-intro-mark">${liSvg('', '<circle class="li-wave" cx="43.5" cy="25" r="3.9"/>')}</div>`
-      + '<p class="li-intro-cap"><span>CHUANGQI LEE</span><b></b><span>Li · 03</span></p>';
+      + '<p class="li-intro-cap"><span>CHUANGQI LI</span><b></b><span>Li · 03</span></p>';
     const mark = veil.firstElementChild;
     root.classList.remove('li-intro-on'); // the veil is opaque itself; the cover sits above <body> and would hide it
     return new Promise(done => {
@@ -380,7 +380,7 @@
 
   const foot = document.querySelector('.multi-footer');
   if (foot && getComputedStyle(foot, '::after').content.includes('Chuangqi')) {
-    make('div', 'li-lockup', foot).innerHTML = liSvg('li-lockup-mark') + '<span>Chuangqi Lee</span>';
+    make('div', 'li-lockup', foot).innerHTML = liSvg('li-lockup-mark') + '<span>Chuangqi Li</span>';
     foot.classList.add('has-li-lockup');
   }
 

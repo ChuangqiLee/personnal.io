@@ -194,7 +194,7 @@ body.tech-site .footer-contacts{border-color:var(--line)!important;color:var(--d
 body.tech-site .footer a{transition:color .25s}
 body.tech-site .footer a:hover{color:var(--ink)}
 body.tech-site .footer .brand,body.tech-site .footer .brand-name{color:var(--ink)!important}
-body.tech-site .multi-footer::after{content:'Chuangqi Lee';order:99;flex-basis:100%;width:100%;display:block;margin-top:10px;font:600 clamp(64px,15.5vw,250px)/.8 var(--serif);letter-spacing:-.06em;text-align:center;white-space:nowrap;
+body.tech-site .multi-footer::after{content:'Chuangqi Li';order:99;flex-basis:100%;width:100%;display:block;margin-top:10px;font:600 clamp(64px,15.5vw,250px)/.8 var(--serif);letter-spacing:-.06em;text-align:center;white-space:nowrap;
   background:linear-gradient(180deg,rgba(255,255,255,.14),rgba(255,255,255,0) 85%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;pointer-events:none;user-select:none;overflow:hidden}
 body.tech-site .edition-motion{color:var(--muted)!important;border-color:var(--line-strong)!important;background:transparent!important;font-family:var(--mono)}
 

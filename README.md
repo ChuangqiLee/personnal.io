@@ -1,8 +1,8 @@
-# Chuangqi Lee — Personal Website
+# Chuangqi Li — Personal Website
 
 Personal website imported from `DerrickLee-main.zip`.
 
-Live website: https://chuangqilee.github.io/
+Live website: https://chuangqilee.github.io/chuangqili.github.io/
 
 ## Publishing
 
